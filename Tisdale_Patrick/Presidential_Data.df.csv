@@ -1,0 +1,46 @@
+President,Party,Byear,BCounty,Lat,Lon,CountySqMi,CountyPAB,CountyPDAB
+George Washington,None,1732,"Westmoreland Co., VA",37.2318,-80.0057,229,4286,18.7
+John Adams,Federalist,1735,"Norfolk Co., MA",42.3,-70.97,444,10585,23.8
+Thomas Jefferson,Democratic-Republican,1743,"Albemarle Co., VA",38.9602,-77.2049,726,7524,10.4
+James Madison,Democratic-Republican,1751,"King George Co., VA",38.2897,-77.1941,188,5723,30.4
+James Monroe,Democratic-Republican,1758,"Westmoreland Co., VA",37.5,-80.25,229,5023,22.7
+John Quincy Adams,Democratic-Republican,1767,"Norfolk Co., MA",42.0423,-71.2256,444,16973,38.2
+Andrew Jackson,Democrat,1767,"Lancaster Co., SC",34.7212,-80.7712,555,4952,8.9
+Martin Van Buren,Democrat,1782,"Columbia Co., NY",42.3679,-73.5594,635,26460,41.7
+William Henry Harrison,Democrat,1773,"Charles City Co., VA",37.4018,-77.1485,183,5472,29.9
+John Tyler,Whig,1790,"Charles City Co., VA",37.65,-77.4,183,5588,30.5
+James K. Polk,Democrat,1795,"Mecklenburg Co., NC",35.2633,-80.8544,524,10920,20.8
+Zachary Taylor,Whig,1784,"Orange Co., VA",38.2427,-77.9739,341,9702,28.5
+Millard Fillmore,Whig,1800,"Cayuga Co., NY",42.7655,-76.5488,692,15871,22.9
+Franklin Pierce,Democrat,1804,"Hillsborough Co., NH",42.8335,-71.6673,876.5,46400,52.9
+James Buchanan,Democrat,1791,"Franklin Co., PA",39.8924,-77.6536,772,15662,20.3
+Abraham Lincoln,Republican,1809,"LaRue Co., KY",37.519,-85.7256,262,4693,17.9
+Andrew Johnson,National Union,1808,"Wake Co., NC",35.8032,-78.5661,835,17096,20.5
+Ulysses S. Grant,Republican,1822,"Clermont Co., OH",39.0928,-84.1857,452,15820,35
+Rutherford B. Hayes,Republican,1822,"Delaware Co., OH",40.3033,-83.0361,443,7639,17.2
+James A. Garfield,Republican,1831,"Cuyahoga Co., OH",41.7048,-81.7787,457,10373,22.7
+Chester Arthur,Republican,1829,"Franklin Co., VT",44.8107,-73.0906,634,24525,38.7
+Grover Cleveland,Democrat,1837,"Essex Co., NJ",40.7947,-74.2649,126.2,44621,353.6
+Benjamin Harrison,Republican,1833,"Hamilton Co., OH",39.2355,-84.5641,406,52317,128.9
+William McKinley,Republican,1843,"Trumbull Co., OH",41.3171,-80.7612,618,38107,61.7
+Theodore Roosevelt,Republican,1858,"Manhattan, NY",40.7831,-73.9712,22.8,813669,2000
+William Howard Taft,Republican,1857,"Hamilton Co., OH",39.48,-84.81,406,216410,533
+Woodrow Wilson,Democrat,1856,"Staunton, VA",38.1496,-79.0717,19.9,3642,183
+Warren G. Harding,Republican,1865,"Morrow Co., OH",40.5304,-82.8008,406,19083,47
+Calvin Coolidge,Republican,1872,"Windsor Co., VT",43.5801,-72.5861,969,36063,37.2
+Herbert Hoover,Republican,1874,"Cedar Co., IA",41.6714,-91.3466,579,19331,33.4
+Franklin D. Roosevelt,Democrat,1882,"Dutchess Co., NY",41.7784,-73.7478,796,79184,99.5
+Harry S. Truman,Republican,1884,"Barton Co., MO",37.4749,-94.3154,592,14415,24.3
+Dwight Eisenhower,Republican,1890,"Grayson Co., TX",33.7062,-96.6638,933,53211,57
+John F. Kennedy,Democrat,1917,"Norfolk Co., MA",42.29,-71.47,444,219081,493.4
+Lyndon B. Johnson,Democrat,1908,"Gillespie Co., TX",30.315,-98.9245,1058,9447,8.9
+Richard Nixon,Republican,1913,"Orange Co., CA",33.7175,-117.8311,799,42436,53.1
+Gerald Ford,Republican,1913,"Douglas Co., NE",41.3148,-96.1951,328,175546,535.2
+Jimmy Carter,Democrat,1924,"Sumter Co., GA",31.9982,-84.2279,483,28300,58.6
+Ronald Reagan,Republican,1911,"Whiteside Co., IL",41.7606,-89.8505,684,34507,50.4
+George H. W. Bush,Republican,1924,"Norfolk Co., MA",41.8,-71.47,444,249081,561
+Bill Clinton,Democrat,1946,"Hempstead Co., AR",33.653,-93.6623,728,28930,39.7
+George W. Bush,Republican,1946,"New Haven Co., CT",41.3267,-72.8043,605,515785,852.5
+Barack Obama,Democrat,1961,"Honolulu Co., HI",21.307,-157.8584,601,500409,832.6
+Donald J. Trump,Republican,1946,"Queens, NY",40.7282,-73.7949,109,1452834,1750
+Joe Biden,Democrat,1942,"Lackawanna Co., PA",41.4421,-75.5742,459,301243,656.3
