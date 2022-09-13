@@ -1,0 +1,4 @@
+place 	lat 	lon	live
+Leon_Guanajuato 	21.116667	-101.683334	3
+Houston 	29.760427	-95.369803	17
+Austin	30.266666	-97.73333	1
